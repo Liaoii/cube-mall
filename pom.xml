@@ -12,6 +12,7 @@
 
     <modules>
         <module>cubemall-product</module>
+        <module>renren-fast</module>
     </modules>
 </project>
 
