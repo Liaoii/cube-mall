@@ -7,9 +7,11 @@
         <groupId>com.liaoii.cubemall</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
+
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>cubemall-common</artifactId>
+    <description>微服务公共模块</description>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
@@ -22,7 +24,7 @@
             <artifactId>lombok</artifactId>
             <version>1.18.22</version>
         </dependency>
-
+        <!--Mybatis-Plus-->
         <dependency>
             <groupId>com.baomidou</groupId>
             <artifactId>mybatis-plus-boot-starter</artifactId>
@@ -52,7 +54,5 @@
             <artifactId>junit-jupiter-api</artifactId>
             <version>5.8.2</version>
         </dependency>
-
     </dependencies>
-
 </project>

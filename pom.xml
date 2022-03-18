@@ -6,7 +6,7 @@
     <groupId>com.liaoii.cubemall</groupId>
     <artifactId>cubemall</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>cubemall</name>
+    <name>cube-mall</name>
     <description>魔方商城</description>
     <packaging>pom</packaging>
 
