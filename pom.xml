@@ -15,6 +15,7 @@
         <module>renren-fast</module>
         <module>renren-generator</module>
         <module>cubemall-common</module>
+        <module>cubemall-gateway</module>
     </modules>
 </project>
 
